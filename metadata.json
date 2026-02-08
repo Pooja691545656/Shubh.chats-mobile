@@ -1,0 +1,7 @@
+{
+  "name": "Copy of शुभ.Chats",
+  "description": "A Cyberpunk-themed AI chat interface with advanced Text-to-Speech capabilities in English, Hindi, and Marathi.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
